@@ -1,2 +1,2 @@
-# PersonalizedTwitchPlatformFrontEnd-
+# PersonalizedTwitchPlatformFrontEnd
 Front end part
